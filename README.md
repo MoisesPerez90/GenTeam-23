@@ -51,4 +51,5 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 
-![Alt text](image.png)
+![image](https://user-images.githubusercontent.com/118077086/233868263-4fa7b79d-cfd2-484d-850f-b4aa2c3dd61a.png)
+
